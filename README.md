@@ -4,6 +4,9 @@
 
 BioProtIS is an innovative computational pipeline designed for the automated analysis of protein-ligand interactions at a genomic and transcriptomic scale. This tool leverages a range of cutting-edge software, including Modeller, AlphaFold, GROMACS, FPOCKET, and AutoDock Vina, to enable efficient and precise ligand docking with a wide array of proteins and substrates. BioProtIS offers versatility, accommodating various testing scenarios, from blind docking to site-specific targeting, making it valuable for drug discovery, allosteric binding site exploration, and toxicity assessments. The pipeline is highly modular, allowing users to customize it to their research needs, and it promises ongoing advancements in the field of computational biology by facilitating the integration of additional docking algorithms.
 
+# cite this article:
+Virgens, G. S., Oliveira, J., Cardoso, M. I. O., Teodoro, J. A., & Amaral, D. T. (2024). BioProtIS: Streamlining protein-ligand interaction pipeline for analysis in genomic and transcriptomic exploration. Journal of Molecular Graphics and Modelling, 128, 108721. Available: https://doi.org/10.1016/j.jmgm.2024.108721.
+
 * **Software Required:**
     + Python 3.10 or higher
         + packages
